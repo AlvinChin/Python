@@ -1,4 +1,4 @@
-# PythonProjects
-My projects that I worked on while learning Python (using Jupyter Notebook)
+# TicTacToe
+My first project where i used Python to create a 2D game (using Jupyter Notebook)
 
-1. TicTacToe - a project for the tic tac toe game which takes numbers as input for 2 players
+1. TicTacToe - Takes numbers as input for two players 
